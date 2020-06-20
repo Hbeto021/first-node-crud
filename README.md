@@ -1,5 +1,3 @@
-# NodeApiRest
-
 This is my first Crud with Node.js
 
 The focus in this project was not in architectures, patterns or something like that.
